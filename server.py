@@ -71,7 +71,7 @@ signal.signal(signal.SIGINT, signal_handler)
 
 def create_interface():
 
-    title = 'Text generation web UI'
+    title = 'HuTao 的 web UI'
 
     # Password authentication
     auth = []
